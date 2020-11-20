@@ -1,0 +1,25 @@
+<!-- pages/swiper/swiper.wxml -->
+<swiper class="" 
+    indicator-dots="{{!flag}}" 
+    indicator-color="rgba(0,0,0,.3)" 
+    autoplay="{{!flag}}" current="0" 
+    current-item-id="" 
+    interval="1000" 
+    duration="1000" 
+    circular="false" 
+    vertical="{{flag}}" 
+    previous-margin="false" 
+    next-margin="0px" 
+    display-multiple-items="1" 
+    skip-hidden-item-layout="false" 
+    bindchange="" bindanimationfinish="">
+    <swiper-item>
+        <view class="test1"></view>
+    </swiper-item>
+    <swiper-item>
+        <view class="test2"></view>
+    </swiper-item>
+    <swiper-item>
+        <view class="test3"></view>
+    </swiper-item>
+</swiper>

@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/swiper/swiper",
+    "pages/index/index",
+    "pages/map/map",
+    "pages/draw/draw"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "PHOTO",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

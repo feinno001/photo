@@ -1,0 +1,7 @@
+/* pages/draw.wxss */
+
+.test {
+    border: 1rpx salmon solid;
+    box-sizing: border-box;
+    width: 750rpx;
+}

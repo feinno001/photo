@@ -1,0 +1,19 @@
+/* pages/swiper/swiper.wxss */
+
+.test1 {
+    width: 750rpx;
+    height: 600rpx;
+    background: blue;
+}
+
+.test2 {
+    width: 750rpx;
+    height: 600rpx;
+    background: blueviolet;
+}
+
+.test3 {
+    width: 750rpx;
+    height: 600rpx;
+    background: brown;
+}

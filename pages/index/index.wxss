@@ -1,0 +1,9 @@
+/* pages/index/index.wxss */
+
+.test1 {
+    color: red;
+}
+
+.test2 {
+    color: blue;
+}

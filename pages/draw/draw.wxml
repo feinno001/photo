@@ -1,0 +1,10 @@
+<!--pages/draw.wxml-->
+<template name='test'>
+    <view>{{name}}</view>
+</template>
+
+<template is="test" data='{{name}}'></template>
+
+<input type="text"  model:value="{{age}}" bindinput="changeInput"/>
+
+<view class="test">{{age}}</view>
