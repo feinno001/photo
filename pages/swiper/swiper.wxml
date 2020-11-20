@@ -23,3 +23,20 @@
         <view class="test3"></view>
     </swiper-item>
 </swiper>
+
+<picker class="" 
+        mode="date"
+        value="{{date}}" 
+        start="2015-09-01" 
+        end="2017-09-01" 
+        bindchange="bindDateChange">
+    <view>{{date}}</view>
+</picker>
+
+<picker class="" 
+        mode="region" 
+        value="{{region}}" 
+        customItem='全部'
+        bindchange="regionChange">
+    <view>{{region}}</view>
+</picker>
